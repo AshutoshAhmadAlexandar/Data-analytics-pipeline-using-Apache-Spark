@@ -1,0 +1,15 @@
+Name: Ashutosh Ahmad Alexandar
+UB Number: 50248859
+
+Name: Harish Ganesan
+UB Number: 50249122
+
+All the code snd output are present in the ipynb file present in the Code folder. It is called - "DICLab3Part2". All the explanation is provided within the markdown file.
+
+The notebook also contains the block-diagram and references used.
+
+All the Data and additional scripts (Like scraping NYtimes articles and convertion of tect files into csv) are present within a folder called "Additional Scripts".
+
+Script for scraping NY times articles: NY_category.py (4 different scripts for 4 different categories)
+
+Script for converting the text files into a single csv: t2csv.py

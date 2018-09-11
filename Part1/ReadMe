@@ -1,0 +1,23 @@
+Name: Ashutosh Ahmad Alexandar
+UB Number: 50248859
+
+Name: Harish Ganesan
+UB Number: 50249122
+
+1. The data used for Titanic data analysis was download from Kaggle. (Link provided below)
+2. For data analysis, we used 2 approaches:
+	
+	MLlib approach:
+	
+	1.1. First, we used mllib package with rdds.
+	1.2. We used mllin random forest classification on titanic data.
+	1.3. With mllib and rdds, we have to create our own functions to process the data.
+
+	SQL data frames with pipeline:
+
+	2.1. Second, we used sql dataframe and ml pipeline module.
+	2.2. ML random forest classification technique is used with pipeline.
+
+References:
+1. https://www.kaggle.com/c/titanic/data# (Data set)
+2. https://creativedata.atlassian.net/wiki/spaces/SAP/pages/83237142/Pyspark+-+Tutorial+based+on+Titanic+Dataset (Titanic data analysis)
